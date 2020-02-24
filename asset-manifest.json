@@ -1,0 +1,15 @@
+{
+  "main.css": "/front-end-deployment/static/css/main.79d6dbc2.chunk.css",
+  "main.js": "/front-end-deployment/static/js/main.a3edd5ad.chunk.js",
+  "main.js.map": "/front-end-deployment/static/js/main.a3edd5ad.chunk.js.map",
+  "static/css/1.fe5b4aea.chunk.css": "/front-end-deployment/static/css/1.fe5b4aea.chunk.css",
+  "static/js/1.07ce30fc.chunk.js": "/front-end-deployment/static/js/1.07ce30fc.chunk.js",
+  "static/js/1.07ce30fc.chunk.js.map": "/front-end-deployment/static/js/1.07ce30fc.chunk.js.map",
+  "runtime~main.js": "/front-end-deployment/static/js/runtime~main.6ed28bc6.js",
+  "runtime~main.js.map": "/front-end-deployment/static/js/runtime~main.6ed28bc6.js.map",
+  "static/css/1.fe5b4aea.chunk.css.map": "/front-end-deployment/static/css/1.fe5b4aea.chunk.css.map",
+  "static/css/main.79d6dbc2.chunk.css.map": "/front-end-deployment/static/css/main.79d6dbc2.chunk.css.map",
+  "index.html": "/front-end-deployment/index.html",
+  "precache-manifest.d12c852d23729e4f0acde257f1d2ccd5.js": "/front-end-deployment/precache-manifest.d12c852d23729e4f0acde257f1d2ccd5.js",
+  "service-worker.js": "/front-end-deployment/service-worker.js"
+}
