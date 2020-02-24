@@ -1,15 +1,15 @@
 {
-  "main.css": "/front-end-deployment/static/css/main.79d6dbc2.chunk.css",
-  "main.js": "/front-end-deployment/static/js/main.a3edd5ad.chunk.js",
-  "main.js.map": "/front-end-deployment/static/js/main.a3edd5ad.chunk.js.map",
-  "static/css/1.fe5b4aea.chunk.css": "/front-end-deployment/static/css/1.fe5b4aea.chunk.css",
-  "static/js/1.07ce30fc.chunk.js": "/front-end-deployment/static/js/1.07ce30fc.chunk.js",
-  "static/js/1.07ce30fc.chunk.js.map": "/front-end-deployment/static/js/1.07ce30fc.chunk.js.map",
-  "runtime~main.js": "/front-end-deployment/static/js/runtime~main.6ed28bc6.js",
-  "runtime~main.js.map": "/front-end-deployment/static/js/runtime~main.6ed28bc6.js.map",
-  "static/css/1.fe5b4aea.chunk.css.map": "/front-end-deployment/static/css/1.fe5b4aea.chunk.css.map",
-  "static/css/main.79d6dbc2.chunk.css.map": "/front-end-deployment/static/css/main.79d6dbc2.chunk.css.map",
-  "index.html": "/front-end-deployment/index.html",
-  "precache-manifest.d12c852d23729e4f0acde257f1d2ccd5.js": "/front-end-deployment/precache-manifest.d12c852d23729e4f0acde257f1d2ccd5.js",
-  "service-worker.js": "/front-end-deployment/service-worker.js"
+  "main.css": "/social-network/static/css/main.79d6dbc2.chunk.css",
+  "main.js": "/social-network/static/js/main.751460f4.chunk.js",
+  "main.js.map": "/social-network/static/js/main.751460f4.chunk.js.map",
+  "static/css/1.fe5b4aea.chunk.css": "/social-network/static/css/1.fe5b4aea.chunk.css",
+  "static/js/1.dbe6aaa0.chunk.js": "/social-network/static/js/1.dbe6aaa0.chunk.js",
+  "static/js/1.dbe6aaa0.chunk.js.map": "/social-network/static/js/1.dbe6aaa0.chunk.js.map",
+  "runtime~main.js": "/social-network/static/js/runtime~main.22e660ce.js",
+  "runtime~main.js.map": "/social-network/static/js/runtime~main.22e660ce.js.map",
+  "static/css/1.fe5b4aea.chunk.css.map": "/social-network/static/css/1.fe5b4aea.chunk.css.map",
+  "static/css/main.79d6dbc2.chunk.css.map": "/social-network/static/css/main.79d6dbc2.chunk.css.map",
+  "index.html": "/social-network/index.html",
+  "precache-manifest.8997140856635e11c813839b219b82dc.js": "/social-network/precache-manifest.8997140856635e11c813839b219b82dc.js",
+  "service-worker.js": "/social-network/service-worker.js"
 }
